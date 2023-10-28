@@ -13,6 +13,9 @@
             "authentication"
         ],
         "noDirectLaunch": [],
-        "configs": {}
+        "configs": {
+            "co.acme.gluu.login": {}
+        },
+        "name": "zico-first"
     }
 }

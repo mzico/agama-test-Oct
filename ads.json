@@ -1,1 +1,18 @@
-{}
+{
+    "zico-first": {
+        "projectName": "zico-first",
+        "description": "First test",
+        "type": "community",
+        "author": "mzico",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/mzico/agama-test-Oct",
+        "githubUri": "https://github.com/mzico/agama-test-Oct",
+        "license": "apache-2.0",
+        "lastUpdated": "1698517691696",
+        "tags": [
+            "authentication"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}

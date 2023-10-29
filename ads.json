@@ -13,9 +13,7 @@
             "authentication"
         ],
         "noDirectLaunch": [],
-        "configs": {
-            "hello.test": {}
-        },
+        "configs": {},
         "name": "zico-first"
     }
 }
